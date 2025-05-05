@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USERAS\\Adv dontet\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{222557BD-D8D5-4648-8B7B-AAA321EE44AC}|Lab1\\Lab1.csproj|c:\\users\\useras\\adv dontet\\lab1\\lab1\\views\\person\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{222557BD-D8D5-4648-8B7B-AAA321EE44AC}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\person\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222557BD-D8D5-4648-8B7B-AAA321EE44AC}|Lab1\\Lab1.csproj|c:\\users\\useras\\adv dontet\\lab1\\lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{222557BD-D8D5-4648-8B7B-AAA321EE44AC}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222557BD-D8D5-4648-8B7B-AAA321EE44AC}|Lab1\\Lab1.csproj|c:\\users\\useras\\adv dontet\\lab1\\lab1\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222557BD-D8D5-4648-8B7B-AAA321EE44AC}|Lab1\\Lab1.csproj|solutionrelative:lab1\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USERAS\\Adv dontet\\Lab1\\Lab1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USERAS\\Adv dontet\\Lab1\\Lab1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T15:38:50.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\USERAS\\Adv dontet\\Lab1\\Lab1\\Views\\Person\\List.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Person\\List.cshtml",
+              "ToolTip": "C:\\Users\\USERAS\\Adv dontet\\Lab1\\Lab1\\Views\\Person\\List.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Person\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T15:23:10.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\USERAS\\Adv dontet\\Lab1\\Lab1\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Lab1\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\USERAS\\Adv dontet\\Lab1\\Lab1\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Lab1\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:19:38.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
