@@ -3,7 +3,12 @@
     ViewBag.Title = "List";
 }
 
+
+
+
 <h2>List</h2>
+
+<span>@ViewBag.a + @ViewBag.b = @ViewBag.c</span>
 
 <table class="table table-bordered">
 
@@ -12,7 +17,14 @@
         <td>ID</td>
         <td>Dob</td>
     </tr>
-    <tr>
+
+   @foreach (string n in ViewBag.Name)
+   {
+       <tr>
+           <td>@n</td>
+       </tr>
+   }
+    <!----<tr>
 
         <td>Rafi</td>
         <td>21-45400-3</td>
@@ -22,7 +34,7 @@
         <td>Sadid</td>
         <td>21-45400-1</td>
         <td>05-02-2007</td>
-    </tr>
+    </tr>-->
     
 </table>
 
