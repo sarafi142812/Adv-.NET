@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HotelBookingDBModelStoreContainer" CdmEntityContainer="HotelBookingDBEntities">
+    <EntitySetMapping Name="Bookings">
+      <EntityTypeMapping TypeName="HotelBookingDBModel.Booking">
+        <MappingFragment StoreEntitySet="Bookings">
+          <ScalarProperty Name="booking_id" ColumnName="booking_id" />
+          <ScalarProperty Name="guest_id" ColumnName="guest_id" />
+          <ScalarProperty Name="room_id" ColumnName="room_id" />
+          <ScalarProperty Name="check_in_date" ColumnName="check_in_date" />
+          <ScalarProperty Name="check_out_date" ColumnName="check_out_date" />
+          <ScalarProperty Name="total_price" ColumnName="total_price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Guests">
+      <EntityTypeMapping TypeName="HotelBookingDBModel.Guest">
+        <MappingFragment StoreEntitySet="Guests">
+          <ScalarProperty Name="guest_id" ColumnName="guest_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rooms">
+      <EntityTypeMapping TypeName="HotelBookingDBModel.Room">
+        <MappingFragment StoreEntitySet="Rooms">
+          <ScalarProperty Name="room_id" ColumnName="room_id" />
+          <ScalarProperty Name="room_number" ColumnName="room_number" />
+          <ScalarProperty Name="room_type" ColumnName="room_type" />
+          <ScalarProperty Name="price_per_night" ColumnName="price_per_night" />
+          <ScalarProperty Name="is_available" ColumnName="is_available" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

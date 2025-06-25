@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HotelBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03286187-5A2F-4875-B7D6-19872207A0C4}|DAL\\DAL.csproj|D:\\HotelBookingSystem\\dal\\repos\\roomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03286187-5A2F-4875-B7D6-19872207A0C4}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\roomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03286187-5A2F-4875-B7D6-19872207A0C4}|DAL\\DAL.csproj|d:\\hotelbookingsystem\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03286187-5A2F-4875-B7D6-19872207A0C4}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03286187-5A2F-4875-B7D6-19872207A0C4}|DAL\\DAL.csproj|d:\\hotelbookingsystem\\dal\\interfaces\\iroomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03286187-5A2F-4875-B7D6-19872207A0C4}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iroomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03286187-5A2F-4875-B7D6-19872207A0C4}|DAL\\DAL.csproj|d:\\hotelbookingsystem\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03286187-5A2F-4875-B7D6-19872207A0C4}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3BA9E1-1068-4D86-B8FE-177BA9B7A072}|HotelBookingSystem\\HotelBookingSystem.csproj|d:\\hotelbookingsystem\\hotelbookingsystem\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3BA9E1-1068-4D86-B8FE-177BA9B7A072}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BCC88F-EF26-45E1-8680-962367452B3A}|BAL\\BAL.csproj|D:\\HotelBookingSystem\\bal\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BCC88F-EF26-45E1-8680-962367452B3A}|BAL\\BAL.csproj|solutionrelative:bal\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03286187-5A2F-4875-B7D6-19872207A0C4}|DAL\\DAL.csproj|d:\\hotelbookingsystem\\dal\\repos\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03286187-5A2F-4875-B7D6-19872207A0C4}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03286187-5A2F-4875-B7D6-19872207A0C4}|DAL\\DAL.csproj|d:\\hotelbookingsystem\\dal\\repos\\guestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03286187-5A2F-4875-B7D6-19872207A0C4}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\guestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "D:\\HotelBookingSystem\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "D:\\HotelBookingSystem\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAtwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:29:06.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRoomRepo.cs",
+              "DocumentMoniker": "D:\\HotelBookingSystem\\DAL\\Interfaces\\IRoomRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRoomRepo.cs",
+              "ToolTip": "D:\\HotelBookingSystem\\DAL\\Interfaces\\IRoomRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRoomRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:27:07.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuestRepo.cs",
+              "DocumentMoniker": "D:\\HotelBookingSystem\\DAL\\Repos\\GuestRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\GuestRepo.cs",
+              "ToolTip": "D:\\HotelBookingSystem\\DAL\\Repos\\GuestRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\GuestRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:18:21.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\HotelBookingSystem\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "D:\\HotelBookingSystem\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:07:22.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "D:\\HotelBookingSystem\\DAL\\Repos\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\BookingRepo.cs",
+              "ToolTip": "D:\\HotelBookingSystem\\DAL\\Repos\\BookingRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\BookingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:00:28.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\HotelBookingSystem\\HotelBookingSystem\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\HotelBookingSystem\\HotelBookingSystem\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "HotelBookingSystem\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:16:44.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "D:\\HotelBookingSystem\\BAL\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "BAL\\Services\\RoomService.cs",
+              "ToolTip": "D:\\HotelBookingSystem\\BAL\\Services\\RoomService.cs",
+              "RelativeToolTip": "BAL\\Services\\RoomService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:15:52.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomRepo.cs",
+              "DocumentMoniker": "D:\\HotelBookingSystem\\DAL\\Repos\\RoomRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\RoomRepo.cs",
+              "ToolTip": "D:\\HotelBookingSystem\\DAL\\Repos\\RoomRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\RoomRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:52:55.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

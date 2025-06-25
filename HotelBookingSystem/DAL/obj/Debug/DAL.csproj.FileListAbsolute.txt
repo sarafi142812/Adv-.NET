@@ -1,0 +1,24 @@
+C:\Users\USERAS\Adv dontet\HotelBookingSystem\DAL\bin\Debug\DAL.dll.config
+C:\Users\USERAS\Adv dontet\HotelBookingSystem\DAL\bin\Debug\DAL.dll
+C:\Users\USERAS\Adv dontet\HotelBookingSystem\DAL\bin\Debug\DAL.pdb
+C:\Users\USERAS\Adv dontet\HotelBookingSystem\DAL\bin\Debug\EntityFramework.dll
+C:\Users\USERAS\Adv dontet\HotelBookingSystem\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USERAS\Adv dontet\HotelBookingSystem\DAL\bin\Debug\EntityFramework.xml
+C:\Users\USERAS\Adv dontet\HotelBookingSystem\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USERAS\Adv dontet\HotelBookingSystem\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\USERAS\Adv dontet\HotelBookingSystem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USERAS\Adv dontet\HotelBookingSystem\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\USERAS\Adv dontet\HotelBookingSystem\DAL\obj\Debug\DAL.dll
+C:\Users\USERAS\Adv dontet\HotelBookingSystem\DAL\obj\Debug\DAL.pdb
+D:\HotelBookingSystem\DAL\bin\Debug\DAL.dll.config
+D:\HotelBookingSystem\DAL\bin\Debug\DAL.dll
+D:\HotelBookingSystem\DAL\bin\Debug\DAL.pdb
+D:\HotelBookingSystem\DAL\bin\Debug\EntityFramework.dll
+D:\HotelBookingSystem\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\HotelBookingSystem\DAL\bin\Debug\EntityFramework.xml
+D:\HotelBookingSystem\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\HotelBookingSystem\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HotelBookingSystem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HotelBookingSystem\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HotelBookingSystem\DAL\obj\Debug\DAL.dll
+D:\HotelBookingSystem\DAL\obj\Debug\DAL.pdb
